@@ -24,3 +24,5 @@
 · 银河社区 ——  https://www.cwcsms.com/downloads/app/ios  
 · CWC钱包 ——  https://download.cwcwallet.com/ios/index   
 · 以下省略30余款App  
+  
+  ![Screenshots](Images/精品应用.png "Screenshots") 
