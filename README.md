@@ -15,3 +15,11 @@
   
  教育经历：  
 · 电子工程，工学学士学位，2016
+
+  
+ 精选项目：  
+· 消汇邦 ——  http://itunes.apple.com/app/id1214743450  
+· 爱订房 ——  https://itunes.apple.com/cn/app/id1417774729
+· 美咻咻 ——  http://itunes.apple.com/app/id1000593151
+· 银河社区 ——  https://www.cwcsms.com/downloads/app/ios
+· CWC钱包 ——  https://download.cwcwallet.com/ios/index
